@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<schema version="0.3">
+	<table name="btAddThis">
+		<field name="bID" type="I">
+			<key />
+			<unsigned />
+		</field>
+		<field name="username" type="C" size="64"></field>		
+		<field name="display" type="C" size="64"></field>
+	</table>
+</schema>
